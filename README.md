@@ -1,4 +1,4 @@
-# [ Click Here to See Project ](https://github.com/danielrichardtorres/predicting-housing-prices/blob/master/housing.ipynb)
+# [ See Project ](https://github.com/danielrichardtorres/predicting-housing-prices/blob/master/housing.ipynb)
 
 ## [Back to Portfolio](danieltorres.tech)
 
